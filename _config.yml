@@ -16,7 +16,7 @@
 title: Going Product-ishhh
 email: Inandepu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "From writing code to exploring product — trynna get a little product-ishh! Building for a transition in to Product Management."
+  "From writing code to exploring product — trynna get a little product-ishh! Building for a transition from Tech to Product Management."
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Indira Nandepu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "From writing code to exploring product — I'm a software engineer dipping my toes into product management. This is my own little space for getting a little product-ish, by sharing all the learning chaos as I go from just 'dipping my toes' to hopefully something like 'knee-deep'."
+  bio    : "From writing code to exploring product — trynna get a little product-ishh!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
