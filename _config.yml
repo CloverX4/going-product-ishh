@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Indira Nandepu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "From writing code to exploring product — trynna get a little product-ishh!"
+  bio    : "From writing code to exploring product — here to share it, my one product-ish step at a time!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
