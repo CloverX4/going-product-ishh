@@ -1,0 +1,16 @@
+// assets/css/main.scss
+
+// 🪄 Your Custom Color Variables
+$background-color: #FEFBF6;
+$body-color: #2F2F2F;
+$link-color: #D87CAC;
+$link-hover-color: #BA5C93;
+$accent-color: #B3D89C;
+
+// Optional: Adjust font sizes, spacing, etc., here too
+$global-font-family: 'Inter', sans-serif;
+$header-font-family: 'Playfair Display', serif;
+
+// 🧙 Import Minimal Mistakes styles after variable overrides
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
