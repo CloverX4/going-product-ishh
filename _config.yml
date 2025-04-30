@@ -105,6 +105,8 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        include: head.html
   # _pages
   - scope:
       path: "_pages"
