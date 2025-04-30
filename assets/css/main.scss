@@ -1,16 +1,16 @@
-// assets/css/main.scss
+// Soft Blush theme — assets/css/main.scss
 
-// 🪄 Your Custom Color Variables
-$background-color: #FEFBF6;
-$body-color: #2F2F2F;
-$link-color: #D87CAC;
-$link-hover-color: #BA5C93;
-$accent-color: #B3D89C;
+// Colors
+$background-color: #FDF8F4;
+$body-color: #3E3E3E;
+$accent-color: #DABECF;
+$link-color: #C6708C;
+$link-hover-color: #A65372;
 
-// Optional: Adjust font sizes, spacing, etc., here too
-$global-font-family: 'Inter', sans-serif;
+// Typography
+$global-font-family: 'Quicksand', sans-serif;
 $header-font-family: 'Playfair Display', serif;
 
-// 🧙 Import Minimal Mistakes styles after variable overrides
+// Import styles
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
